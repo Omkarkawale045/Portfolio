@@ -51,8 +51,5 @@ CSS3	Styling, animations, responsive layout
 JavaScript	Interactivity and smooth scrolling
 FontAwesome	Icons for social media & UI
 
-👇
-
-# http://127.0.0.1:5500/index.html
 
 
